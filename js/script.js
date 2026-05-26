@@ -1,3 +1,4 @@
+// test4
 $(function () {
 	previewModeDecision(); //OK
 	getUrlRedirect();
